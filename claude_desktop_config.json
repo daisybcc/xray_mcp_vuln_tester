@@ -4,9 +4,9 @@
       "command": "python312",
       "args": ["D:\Desktop\xray_mcp_vuln_tester\server.py"],
       "env": {
-        "XRAY_API_BASE": "http://59.110.235.230:8001",
-        "XRAY_TOKEN": "skrrr0320@!",
-        "XRAY_DOMAIN": "dariatest.art"
+        "XRAY_API_BASE": "http://*.*.*.*:****",
+        "XRAY_TOKEN": "***",
+        "XRAY_DOMAIN": "*.*"
       }
     }
   }
