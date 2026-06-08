@@ -1,8 +1,8 @@
 {
   "mcpServers": {
     "xray-vuln-tester": {
-      "command": "python312",
-      "args": ["D:\Desktop\xray_mcp_vuln_tester\server.py"],
+      "command": "python3",
+      "args": ["xray_mcp_vuln_tester\server.py"],
       "env": {
         "XRAY_API_BASE": "http://*.*.*.*:****",
         "XRAY_TOKEN": "***",
