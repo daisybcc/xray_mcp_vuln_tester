@@ -31,9 +31,9 @@ logger = logging.getLogger("xray-mcp")
 # ─────────────────────────────────────────────
 # Xray 反连平台配置（按需修改）
 # ─────────────────────────────────────────────
-XRAY_API_BASE   = "http://59.110.235.230:8001"   # Xray 反连平台 API 地址
-XRAY_TOKEN      = "skrrr0320@!"    # Xray API Token（留空则不鉴权）
-XRAY_DOMAIN     = "dariatest.art"        # 反连平台域名（DNS 回调用）
+XRAY_API_BASE   = "http://**.***.*.*:*"   # Xray 反连平台 API 地址
+XRAY_TOKEN      = "***"    # Xray API Token（留空则不鉴权）
+XRAY_DOMAIN     = "**.**"        # 反连平台域名（DNS 回调用）
 POLL_INTERVAL   = 2                          # 轮询间隔（秒）
 POLL_TIMEOUT    = 30                         # 最大等待时间（秒）
 
